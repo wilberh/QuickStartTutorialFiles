@@ -10,10 +10,10 @@
         "url": "/d/fe52lidxr47wga/node-exporter-nodes-1",
         "expires": "0001-01-01T00:00:00Z",
         "created": "2024-11-26T03:19:45Z",
-        "updated": "2024-11-26T03:19:45Z",
+        "updated": "2024-11-26T05:06:23Z",
         "updatedBy": "admin",
         "createdBy": "admin",
-        "version": 1,
+        "version": 2,
         "hasAcl": false,
         "isFolder": false,
         "folderId": 28,
@@ -176,7 +176,7 @@
                         "refId": "A"
                     }
                 ],
-                "title": "CPU Usage",
+                "title": "CPU Usage TEST",
                 "type": "timeseries"
             },
             {
@@ -1179,7 +1179,7 @@
         "timezone": "browser",
         "title": "Node Exporter / Nodes 1",
         "uid": "fe52lidxr47wga",
-        "version": 1,
+        "version": 2,
         "weekStart": ""
     }
 }
