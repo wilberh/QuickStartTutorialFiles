@@ -10,10 +10,10 @@
         "url": "/d/ae52lj1vmkyyoe/node-exporter-nodes-2",
         "expires": "0001-01-01T00:00:00Z",
         "created": "2024-11-26T03:19:57Z",
-        "updated": "2024-11-26T03:19:57Z",
+        "updated": "2024-11-26T05:12:29Z",
         "updatedBy": "admin",
         "createdBy": "admin",
-        "version": 1,
+        "version": 2,
         "hasAcl": false,
         "isFolder": false,
         "folderId": 29,
@@ -176,7 +176,7 @@
                         "refId": "A"
                     }
                 ],
-                "title": "CPU Usage",
+                "title": "CPU Usage 2222",
                 "type": "timeseries"
             },
             {
@@ -1179,7 +1179,7 @@
         "timezone": "browser",
         "title": "Node Exporter / Nodes 2",
         "uid": "ae52lj1vmkyyoe",
-        "version": 1,
+        "version": 2,
         "weekStart": ""
     }
 }
